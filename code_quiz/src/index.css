@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:ital,wght@1,100&display=swap');
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+:root{
+  --purple:#1E1046;
+  --purple-light:#5A45BA;
+  --purple-gradient: linear-gradient(315deg, rgba(57,34,208,1) 0%, rgba(149,67,254,1) 100%);
+  --bg-login:linear-gradient(315deg, #1E1046 0%, rgb(60, 0, 139) 100%);
+  --blue:#0064FF;
+  --dark-blue:#14105F;
+  --blue-light:#4DBFFF;
+  --gray-purple:#8384A1;
+  --green:#37EABB;
+}
